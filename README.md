@@ -1,6 +1,6 @@
 # EventHandling-React
 
-1a)& 1b)Notice how the color of the submit button changes when the mouse is hovered over it!
+1a)& 1b)Notice how the color of the submit button changes when the mouse is hovered over it!</br>
 2)Notice the text displayed when the submit button is clicked!
 
 
